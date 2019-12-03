@@ -19,3 +19,4 @@ while(mass) do
 end
 
 print(totalFuel)
+file:close()
